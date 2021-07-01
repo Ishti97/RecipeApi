@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91dcb650-614f-4d6e-a3c7-52c9f2875b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/test/test_models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeApi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeApi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/test/test_admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/test/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/test/test_models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1625131130020</updated>
       <workItem from="1625131199373" duration="3538000" />
+      <workItem from="1625135763735" duration="715000" />
+      <workItem from="1625145345582" duration="2504000" />
     </task>
     <servers />
   </component>
@@ -92,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
