@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91dcb650-614f-4d6e-a3c7-52c9f2875b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/migrations/0004_recipe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipe/test/test_recipe_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/test/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/test/test_models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipe/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/test/test_recipe_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/test/test_recipe_api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <workItem from="1625409606789" duration="1172000" />
       <workItem from="1625411436217" duration="601000" />
       <workItem from="1625418312553" duration="3477000" />
-      <workItem from="1625494340821" duration="6609000" />
+      <workItem from="1625494340821" duration="7884000" />
     </task>
     <servers />
   </component>
